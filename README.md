@@ -13,8 +13,11 @@ Script em Python para automatizar backups locais.
 - Permissões de leitura/escrita nas pastas definidas no script
 
 ## Como usar
-1. Ajuste os caminhos no script (`backup.py`) para suas pastas.
-2. Crie as pastas se não existirem:
+1. Clone o repositório:
+```bash
+git clone 
+```
+3. Crie as pastas se não existirem:
 ```bash
 mkdir -p /home/valcann/backupsFrom
 mkdir -p /home/valcann/backupsTo

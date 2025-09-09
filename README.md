@@ -15,9 +15,9 @@ Script em Python para automatizar backups locais.
 ## Como usar
 1. Clone o repositório:
 ```bash
-git clone 
+git clone https://github.com/LucasHolandaBarros/Acme.co
 ```
-3. Crie as pastas se não existirem:
+2. Crie as pastas se não existirem:
 ```bash
 mkdir -p /home/valcann/backupsFrom
 mkdir -p /home/valcann/backupsTo
